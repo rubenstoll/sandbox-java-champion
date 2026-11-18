@@ -1,11 +1,17 @@
 This project contains various Java Core features to practice and learn [Java Features](https://www.geeksforgeeks.org/java/java-features/)
 
+* [Java Exercises - Basic to Advanced Java Practice Programs with Solutions](https://www.geeksforgeeks.org/java/java-exercises/)
+* [Practice Java Exercises & Challenges with Solutions [600+ Coding Questions]](https://pynative.com/java-exercises/)
+* [W3 Schools Java Exercises](https://www.w3schools.com/java/java_exercises.asp)
+* [W3 Schools Java Code Challenges](https://www.w3schools.com/java/java_challenges.asp)
+* []()
 
 # Java Data Structures
 [Java Data Structures Exercises: 30 Coding Problems with Solutions](https://pynative.com/java-data-structures-exercises/)
 [Java Arrays Coding Practice Problems ](https://www.geeksforgeeks.org/java/java-arrays-coding-practice-problems/)
 
 ## Arrays
+[Arrays in Java: A Reference Guide](https://www.baeldung.com/java-arrays-guide)
 
 ```
 dataType[] arrayName;
@@ -14,7 +20,6 @@ dataType arrayName[];
 ```
 Once an array is created, its size is fixed and cannot be changed.
 For collections that can grow or shrink dynamically, Java provides classes like ArrayList or Vector.
-
 
 
 # Functional Programming 
