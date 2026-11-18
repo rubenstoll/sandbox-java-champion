@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ch.toto.toolbox</groupId>
-    <artifactId>sandbox-java-calisthenics</artifactId>
+    <artifactId>sandbox-java-champion</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>sandbox-java-calisthenics</name>
-    <description>A simple sandbox-java-calisthenics.</description>
+    <description>A simple sandbox-java-champion</description>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
